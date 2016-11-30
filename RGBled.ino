@@ -4,7 +4,7 @@
 #include <ESP8266mDNS.h>
 
 #define SSID "IOTtest"                                   
-#define PASS "805801805801"     
+#define PASS ""     
 
 ESP8266WebServer server(80);
 
